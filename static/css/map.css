@@ -1,0 +1,22 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+div#mapview {
+	position: relative;
+	left: 400px;
+	top: 130px;
+	width: 700px;
+	height: 450px;
+	background-color: #555;
+	overflow: hidden;
+}
+
+div#mapdiv {
+	position: absolute;
+	left: -30px;
+	top: -30px;
+	width: 800px;
+	height: 820px;
+}
